@@ -22,8 +22,6 @@ int main(){
 	pro_8_1.loop_print("Hello World!");
 	pro_8_1.loop_print("Hello World!");
 	pro_8_1.loop_print("Hello World!",5);
-	Pro_8_2 pro_8_2;
-	pro_8_2.create_candy()
 	//system("pause");
 	return 0;
 }
