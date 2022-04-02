@@ -40,5 +40,6 @@ int main(){
 	show(testing);
 	show(testing,3);
 	show("Done!");
+	system("pause");
 	return 0;
 }
