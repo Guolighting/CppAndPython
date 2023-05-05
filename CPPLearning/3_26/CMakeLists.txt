@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.16)
-project(test)
-add_executable(test CTest.cpp CExample.cpp 0_2.cpp)
-target_include_directories(test PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
-set_target_properties(test PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/output/)
