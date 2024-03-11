@@ -1,0 +1,3 @@
+F:\SoftWares\CMake3.24\bin\cmake.exe -E rm -f CMakeFiles\CppAndPython.dir/objects.a
+F:\SoftWares\MinGW\mingw32\bin\ar.exe qc CMakeFiles\CppAndPython.dir/objects.a @CMakeFiles\CppAndPython.dir\objects1.rsp
+F:\SoftWares\MinGW\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\CppAndPython.dir/objects.a -Wl,--no-whole-archive -o CppAndPython.exe -Wl,--out-implib,libCppAndPython.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CppAndPython.dir\linklibs.rsp
