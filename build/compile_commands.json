@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/Code/CppAndPython/build",
+  "command": "F:\\SoftWares\\MinGW\\mingw32\\bin\\g++.exe   -g -o CMakeFiles\\CppAndPython.dir\\Algorithm\\LeetCode_ChallengeCup\\334th_Week\\B_L6417.cpp.obj -c E:\\Code\\CppAndPython\\Algorithm\\LeetCode_ChallengeCup\\334th_Week\\B_L6417.cpp",
+  "file": "E:/Code/CppAndPython/Algorithm/LeetCode_ChallengeCup/334th_Week/B_L6417.cpp"
+},
+{
+  "directory": "E:/Code/CppAndPython/build",
+  "command": "F:\\SoftWares\\MinGW\\mingw32\\bin\\g++.exe   -g -o CMakeFiles\\CppAndPython.dir\\Algorithm\\LeetCode_ChallengeCup\\334th_Week\\C_L6418.cpp.obj -c E:\\Code\\CppAndPython\\Algorithm\\LeetCode_ChallengeCup\\334th_Week\\C_L6418.cpp",
+  "file": "E:/Code/CppAndPython/Algorithm/LeetCode_ChallengeCup/334th_Week/C_L6418.cpp"
+},
+{
+  "directory": "E:/Code/CppAndPython/build",
+  "command": "F:\\SoftWares\\MinGW\\mingw32\\bin\\g++.exe   -g -o CMakeFiles\\CppAndPython.dir\\Algorithm\\LeetCode_Attendance\\3_10_L429.cpp.obj -c E:\\Code\\CppAndPython\\Algorithm\\LeetCode_Attendance\\3_10_L429.cpp",
+  "file": "E:/Code/CppAndPython/Algorithm/LeetCode_Attendance/3_10_L429.cpp"
+},
+{
+  "directory": "E:/Code/CppAndPython/build",
+  "command": "F:\\SoftWares\\MinGW\\mingw32\\bin\\g++.exe   -g -o CMakeFiles\\CppAndPython.dir\\Algorithm\\LeetCode_Attendance\\3_11_L226.cpp.obj -c E:\\Code\\CppAndPython\\Algorithm\\LeetCode_Attendance\\3_11_L226.cpp",
+  "file": "E:/Code/CppAndPython/Algorithm/LeetCode_Attendance/3_11_L226.cpp"
+}
+]
